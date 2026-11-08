@@ -1,6 +1,6 @@
 # Assignments
 
-The course centers on two related forms of philosophical practice: formulating good questions and participating in reasoned argument. Consult the [complete course page](https://aowiki.nsm.buffalo.edu/index.php/Introduction_to_Philosophy_from_an_Ontological_Perspective:_Fall_2026) for current submission and participation requirements.
+The course centers on two related forms of philosophical practice: formulating good questions and participating in reasoned argument. 
 
 ## Eight-question portfolio
 

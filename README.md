@@ -5,9 +5,8 @@ An open course repository introducing central themes in philosophy through the l
 **Course lead:** Barry Smith  
 **Format:** Online, asynchronous lectures with a concluding discussion  
 **Lecture series:** [Introduction to Philosophy playlist](https://www.youtube.com/playlist?list=PLyngZgIl3WTjov-UhEW7N145LVBPrRYLZ)  
-**Complete course page:** [View the authoritative course page](https://aowiki.nsm.buffalo.edu/index.php/Introduction_to_Philosophy_from_an_Ontological_Perspective:_Fall_2026)
 
-The linked course page remains the authoritative source for current dates, formal requirements, announcements, and instructor guidance. This repository provides a public, organization-neutral route into the course.
+This repository provides a public, organization-neutral route into the course.
 
 ## What the course explores
 
@@ -35,11 +34,10 @@ Learners should be able to:
 
 Watch each of the eight lectures and formulate one substantive question prompted by it. A strong question should be clear, relevant, of general interest, and not already answered in the lecture. The questions then provide the basis for a concluding discussion.
 
-See [SYLLABUS.md](SYLLABUS.md) for the learning sequence and [ASSIGNMENTS.md](ASSIGNMENTS.md) for the question-development framework.
+See [ASSIGNMENTS.md](ASSIGNMENTS.md) for the question-development framework.
 
 ## Repository contents
 
-- [`SYLLABUS.md`](SYLLABUS.md) — eight-part course sequence
 - [`ASSIGNMENTS.md`](ASSIGNMENTS.md) — question portfolio and discussion guidance
 - [`RESOURCES.md`](RESOURCES.md) — lecture series and recommended readings
 - [`docs/`](docs/) — GitHub Pages course site

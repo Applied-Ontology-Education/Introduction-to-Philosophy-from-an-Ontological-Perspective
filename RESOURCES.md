@@ -2,7 +2,6 @@
 
 ## Course resources
 
-- [Complete course page](https://aowiki.nsm.buffalo.edu/index.php/Introduction_to_Philosophy_from_an_Ontological_Perspective:_Fall_2026)
 - [Eight-lecture Introduction to Philosophy playlist](https://www.youtube.com/playlist?list=PLyngZgIl3WTjov-UhEW7N145LVBPrRYLZ)
 
 ## Recommended reading
